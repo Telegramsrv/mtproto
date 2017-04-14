@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-0": {
+            "MyApp": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*",
+        "react/zmq": "0.2.*|0.3.*",
+        "ratchet/pawl": "^0.2.3",
+		"danog/madelineproto": "1.0.1",
+        "longman/telegram-bot": "^0.42.0",
+		"symfony/process": "^3.2",
+        "symfony/console": "^3.2",
+		"vlucas/phpdotenv": "^2.4"
+    }
+}
